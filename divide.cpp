@@ -180,6 +180,6 @@ int main(){
 	int size =(size1 >= size2)?size1: size2;
 
 	multiplication(array1, array2, 4);
-
+	cout <<"Hello"<<endl;
 	return 0;
 }
