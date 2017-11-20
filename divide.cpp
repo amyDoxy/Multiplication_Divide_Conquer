@@ -13,6 +13,9 @@ bool isPowerOf2(int num) {
    return is_pow;
 }
 
+void display(){
+	cout <<"Hello from Miss Vallen"<<endl;
+}
 
 int getSize(int number){
 	
