@@ -17,6 +17,10 @@ void display(){
 	cout <<"Hello from Miss Vallen"<<endl;
 }
 
+void deleteMessage(){
+	cout <<"Message deleted by Miss Vallen"<<endl;
+}
+
 int getSize(int number){
 	
 	int quotient= 1,  i;
